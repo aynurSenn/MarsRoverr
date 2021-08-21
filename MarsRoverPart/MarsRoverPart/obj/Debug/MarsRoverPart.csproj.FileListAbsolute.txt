@@ -1,0 +1,6 @@
+C:\Users\aynur\Desktop\hepsiburada\MarsRoverPart\MarsRoverPart\bin\Debug\MarsRoverPart.exe.config
+C:\Users\aynur\Desktop\hepsiburada\MarsRoverPart\MarsRoverPart\bin\Debug\MarsRoverPart.exe
+C:\Users\aynur\Desktop\hepsiburada\MarsRoverPart\MarsRoverPart\bin\Debug\MarsRoverPart.pdb
+C:\Users\aynur\Desktop\hepsiburada\MarsRoverPart\MarsRoverPart\obj\Debug\MarsRoverPart.csprojResolveAssemblyReference.cache
+C:\Users\aynur\Desktop\hepsiburada\MarsRoverPart\MarsRoverPart\obj\Debug\MarsRoverPart.exe
+C:\Users\aynur\Desktop\hepsiburada\MarsRoverPart\MarsRoverPart\obj\Debug\MarsRoverPart.pdb
